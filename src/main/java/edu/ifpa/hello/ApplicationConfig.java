@@ -6,7 +6,6 @@ import javax.ws.rs.core.Application;
 
 /**
  * Configura a aplicação Jakarta (exemplo com REST)
- * 
  * @author Claudio Martins
  */
 @ApplicationPath("")

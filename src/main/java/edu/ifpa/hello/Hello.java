@@ -8,7 +8,6 @@ import javax.ws.rs.core.Response;
 
 /**
  * Um endpoint simples para "Hello World".
- * 
  * @author Claudio Martins
  */
 @Path("hello")
